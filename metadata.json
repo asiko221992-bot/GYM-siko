@@ -1,0 +1,6 @@
+{
+  "name": "متابع التمرين",
+  "description": "تطبيق متكامل لمتابعة تمارينك الرياضية، تسجيل الحصص التدريبية، وإدارة جدول تمارينك بسهولة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
